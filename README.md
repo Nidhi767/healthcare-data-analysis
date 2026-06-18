@@ -88,19 +88,15 @@ The raw single-table dataset was **normalized into 5 relational tables** to demo
 A 4-page interactive dashboard with consistent navigation, a single-hue blue color theme, and cross-filtering slicers (Insurance Provider, Year).
 
 ### Page 1 — Overview
-![Overview](overview.png)
 High-level KPIs (Total Patients, Total Billing, Avg Billing, Avg Length of Stay), patient volume by medical condition, admission type breakdown, test result distribution, and top-performing hospitals.
 
 ### Page 2 — Patient Demographics
-![Patient Demographics](patient_demographics.png)
 Age distribution, gender split, blood type distribution, gender vs. medical condition cross-analysis, and average billing by age group.
 
 ### Page 3 — Billing & Financial Analysis
-![Billing Analysis](billing_&_financial_analysis.png)
 Billing KPIs, average billing by medical condition and admission type, monthly billing trends by year, billing by insurance provider, and a table of the highest billing cases.
 
 ### Page 4 — Doctor & Hospital Performance
-![Doctor Hospital Performance](doctor_&_hospital_performance.png)
 Doctor performance summary (patient volume, average billing, average length of stay), doctor specialization by medical condition, hospital performance comparison, and length of stay by admission type.
 
  Power BI file: [`powerbi/Healthcare_Dashboard.pbix`](Carewell_hospital_network_analysis.pbix)
